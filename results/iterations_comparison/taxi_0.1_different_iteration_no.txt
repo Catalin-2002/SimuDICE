@@ -1,0 +1,122 @@
+Configuration: {'dataset_path': './datasets/Taxi_0.1_10000_510_100_behavioral_data.pkl', 'environment_name': 'Taxi', 'alpha': 0.05, 'gamma': 0.99, 'planning_steps': 10, 'iterations': 1, 'lamba': 1000, 'sampling_strategy': 1, 'play_episodes': 500, 'max_environment_steps': 100}
+Running SimuDICE for 25 episodes
+SimuDICE iterations: 1
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+SimuDICE iterations: 2
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+SimuDICE iterations: 3
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+SimuDICE iterations: 4
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+SimuDICE iterations: 5
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+Running SimuDICE for 75 episodes
+SimuDICE iterations: 1
+Average reward: -4.032499487966572, with min reward -4.138799885057471 and max reward -3.954283016186712
+SimuDICE iterations: 2
+Average reward: -4.032499487966572, with min reward -4.138799885057471 and max reward -3.954283016186712
+SimuDICE iterations: 3
+Average reward: -4.032499487966572, with min reward -4.138799885057471 and max reward -3.954283016186712
+SimuDICE iterations: 4
+Average reward: -4.032499487966572, with min reward -4.138799885057471 and max reward -3.954283016186712
+SimuDICE iterations: 5
+Average reward: -4.032499487966572, with min reward -4.138799885057471 and max reward -3.954283016186712
+Running SimuDICE for 125 episodes
+SimuDICE iterations: 1
+Average reward: -3.5133937123594485, with min reward -3.7395813299495018 and max reward -3.389894761684748
+SimuDICE iterations: 2
+Average reward: -3.5293136603962316, with min reward -3.7388441600132873 and max reward -3.399797453810879
+SimuDICE iterations: 3
+Average reward: -3.5293136603962316, with min reward -3.7388441600132873 and max reward -3.399797453810879
+SimuDICE iterations: 4
+Average reward: -3.5293136603962316, with min reward -3.7388441600132873 and max reward -3.399797453810879
+SimuDICE iterations: 5
+Average reward: -3.5293136603962316, with min reward -3.7388441600132873 and max reward -3.399797453810879
+Running SimuDICE for 175 episodes
+SimuDICE iterations: 1
+Average reward: -2.9471856172982323, with min reward -3.2182089268644516 and max reward -2.7664254850100907
+SimuDICE iterations: 2
+Average reward: -2.8798394678856587, with min reward -3.1615137532320676 and max reward -2.684569260381041
+SimuDICE iterations: 3
+Average reward: -2.887531527697566, with min reward -3.1751000410460755 and max reward -2.693523928079834
+SimuDICE iterations: 4
+Average reward: -2.8798394678856587, with min reward -3.1615137532320676 and max reward -2.684569260381041
+SimuDICE iterations: 5
+Average reward: -2.8798394678856587, with min reward -3.1615137532320676 and max reward -2.684569260381041
+Running SimuDICE for 225 episodes
+SimuDICE iterations: 1
+Average reward: -2.328266616824414, with min reward -2.5717750651110154 and max reward -2.107923209797339
+SimuDICE iterations: 2
+Average reward: -2.3273894933270745, with min reward -2.5845501546059326 and max reward -2.110177607573476
+SimuDICE iterations: 3
+Average reward: -2.3273894933270745, with min reward -2.5845501546059326 and max reward -2.110177607573476
+SimuDICE iterations: 4
+Average reward: -2.3273894933270745, with min reward -2.5845501546059326 and max reward -2.110177607573476
+SimuDICE iterations: 5
+Average reward: -2.3273894933270745, with min reward -2.5845501546059326 and max reward -2.110177607573476
+Running SimuDICE for 275 episodes
+SimuDICE iterations: 1
+Average reward: -1.718300472783077, with min reward -1.9077998563560303 and max reward -1.5264294408980783
+SimuDICE iterations: 2
+Average reward: -1.6860460286915213, with min reward -1.8828806387040946 and max reward -1.5035991256631618
+SimuDICE iterations: 3
+Average reward: -1.6860460286915213, with min reward -1.8828806387040946 and max reward -1.5035991256631618
+SimuDICE iterations: 4
+Average reward: -1.6860460286915213, with min reward -1.8828806387040946 and max reward -1.5035991256631618
+SimuDICE iterations: 5
+Average reward: -1.726297832354034, with min reward -1.9371102495907266 and max reward -1.574082508962109
+Running SimuDICE for 325 episodes
+SimuDICE iterations: 1
+Average reward: -1.2368808693618265, with min reward -1.4003138377178053 and max reward -1.068262505562108
+SimuDICE iterations: 2
+Average reward: -1.3307575165411305, with min reward -1.5996640472013224 and max reward -1.1690952498432676
+SimuDICE iterations: 3
+Average reward: -1.3307575165411305, with min reward -1.5996640472013224 and max reward -1.1690952498432676
+SimuDICE iterations: 4
+Average reward: -1.25541240371059, with min reward -1.4105251014085212 and max reward -1.0758005105143236
+SimuDICE iterations: 5
+Average reward: -1.3299989800856538, with min reward -1.589067176201968 and max reward -1.2057763073035739
+Running SimuDICE for 375 episodes
+SimuDICE iterations: 1
+Average reward: -0.8599784795546054, with min reward -1.0343243259603536 and max reward -0.7328412333507957
+SimuDICE iterations: 2
+Average reward: -0.9360187977136795, with min reward -1.1324183540267974 and max reward -0.74763731174954
+SimuDICE iterations: 3
+Average reward: -0.9502829730082754, with min reward -1.1556238188681793 and max reward -0.7525898736973962
+SimuDICE iterations: 4
+Average reward: -0.9502829730082754, with min reward -1.1556238188681793 and max reward -0.7525898736973962
+SimuDICE iterations: 5
+Average reward: -0.9666383709039629, with min reward -1.1363644895868146 and max reward -0.7900447403202253
+Running SimuDICE for 425 episodes
+SimuDICE iterations: 1
+Average reward: -0.44252078651031174, with min reward -0.5878035559859537 and max reward -0.32992877873719706
+SimuDICE iterations: 2
+Average reward: -0.4738225344943457, with min reward -0.6175427064908504 and max reward -0.33594495544689984
+SimuDICE iterations: 3
+Average reward: -0.5140741032723436, with min reward -0.672525042773206 and max reward -0.3802560733659011
+SimuDICE iterations: 4
+Average reward: -0.5133821276073836, with min reward -0.6521084070522729 and max reward -0.3802560733659011
+SimuDICE iterations: 5
+Average reward: -0.565426866104746, with min reward -0.7417702954356039 and max reward -0.42204740694841825
+Running SimuDICE for 475 episodes
+SimuDICE iterations: 1
+Average reward: -0.34462597978866966, with min reward -0.4968530935070054 and max reward -0.19135641026593408
+SimuDICE iterations: 2
+Average reward: -0.3281401055997083, with min reward -0.4729536415997508 and max reward -0.19422522076225238
+SimuDICE iterations: 3
+Average reward: -0.25155931300149265, with min reward -0.4046360759991708 and max reward -0.12043893114012551
+SimuDICE iterations: 4
+Average reward: -0.25155931300149265, with min reward -0.4046360759991708 and max reward -0.12043893114012551
+SimuDICE iterations: 5
+Average reward: -0.25155931300149265, with min reward -0.4046360759991708 and max reward -0.12043893114012551
+Running SimuDICE for 500 episodes
+SimuDICE iterations: 1
+Average reward: -0.15966023215031527, with min reward -0.3335725354764946 and max reward 0.012404766836613621
+SimuDICE iterations: 2
+Average reward: -0.13611178039515762, with min reward -0.32551016160895524 and max reward 0.02128104658280366
+SimuDICE iterations: 3
+Average reward: -0.14474823509074614, with min reward -0.33389735376479257 and max reward 0.017751996890206557
+SimuDICE iterations: 4
+Average reward: -0.17948745161221463, with min reward -0.34266546756677535 and max reward -0.0487966927516902
+SimuDICE iterations: 5
+Average reward: -0.17948745161221463, with min reward -0.34266546756677535 and max reward -0.0487966927516902

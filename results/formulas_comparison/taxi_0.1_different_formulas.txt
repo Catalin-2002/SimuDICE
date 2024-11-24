@@ -1,0 +1,78 @@
+Configuration: {'dataset_path': './datasets/Taxi_0.1_10000_510_100_behavioral_data.pkl', 'environment_name': 'Taxi', 'alpha': 0.05, 'gamma': 0.99, 'planning_steps': 10, 'iterations': 1, 'lamba': 1000, 'sampling_strategy': 1, 'play_episodes': 500, 'max_environment_steps': 100}
+Running SimuDICE for 25 episodes
+SimuDICE sampling strategy: 1
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+SimuDICE sampling strategy: 2
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+SimuDICE sampling strategy: 3
+Average reward: -4.204644770082304, with min reward -4.22602 and max reward -4.176865714285714
+Running SimuDICE for 75 episodes
+SimuDICE sampling strategy: 1
+Average reward: -4.032499487966572, with min reward -4.138799885057471 and max reward -3.954283016186712
+SimuDICE sampling strategy: 2
+Average reward: -4.147255368133708, with min reward -4.250112857142857 and max reward -4.054641020408163
+SimuDICE sampling strategy: 3
+Average reward: -4.301775999999999, with min reward -4.32748 and max reward -4.28662
+Running SimuDICE for 125 episodes
+SimuDICE sampling strategy: 1
+Average reward: -3.5133937123594485, with min reward -3.7395813299495018 and max reward -3.389894761684748
+SimuDICE sampling strategy: 2
+Average reward: -4.232653585914086, with min reward -4.31702 and max reward -4.1399178787878785
+SimuDICE sampling strategy: 3
+Average reward: -4.343517999999999, with min reward -4.38562 and max reward -4.31776
+Running SimuDICE for 175 episodes
+SimuDICE sampling strategy: 1
+Average reward: -2.9471856172982323, with min reward -3.2182089268644516 and max reward -2.7664254850100907
+SimuDICE sampling strategy: 2
+Average reward: -4.186137240839483, with min reward -4.300991212121213 and max reward -4.075395434246158
+SimuDICE sampling strategy: 3
+Average reward: -4.4316189999999995, with min reward -4.4691399999999994 and max reward -4.39678
+Running SimuDICE for 225 episodes
+SimuDICE sampling strategy: 1
+Average reward: -2.328266616824414, with min reward -2.5717750651110154 and max reward -2.107923209797339
+SimuDICE sampling strategy: 2
+Average reward: -4.070566651432859, with min reward -4.166140732600732 and max reward -3.9375563343247553
+SimuDICE sampling strategy: 3
+Average reward: -4.471282, with min reward -4.500640000000001 and max reward -4.418019999999999
+Running SimuDICE for 275 episodes
+SimuDICE sampling strategy: 1
+Average reward: -1.718300472783077, with min reward -1.9077998563560303 and max reward -1.5264294408980783
+SimuDICE sampling strategy: 2
+Average reward: -3.8566905549156316, with min reward -4.008347007530186 and max reward -3.6182591161066684
+SimuDICE sampling strategy: 3
+Average reward: -4.475992, with min reward -4.51794 and max reward -4.41592
+Running SimuDICE for 325 episodes
+SimuDICE sampling strategy: 1
+Average reward: -1.2368808693618265, with min reward -1.4003138377178053 and max reward -1.068262505562108
+SimuDICE sampling strategy: 2
+Average reward: -3.7720193544675227, with min reward -3.909853851922178 and max reward -3.5812923448886766
+SimuDICE sampling strategy: 3
+Average reward: -4.691524000000001, with min reward -4.799480000000001 and max reward -4.607819999999999
+Running SimuDICE for 375 episodes
+SimuDICE sampling strategy: 1
+Average reward: -0.8599784795546054, with min reward -1.0343243259603536 and max reward -0.7328412333507957
+SimuDICE sampling strategy: 2
+Average reward: -3.6069654512001827, with min reward -3.8272185950673183 and max reward -3.480498566823405
+SimuDICE sampling strategy: 3
+Average reward: -4.617696212121212, with min reward -4.779780000000001 and max reward -4.53627
+Running SimuDICE for 425 episodes
+SimuDICE sampling strategy: 1
+Average reward: -0.44252078651031174, with min reward -0.5878035559859537 and max reward -0.32992877873719706
+SimuDICE sampling strategy: 2
+Average reward: -3.3177178021007174, with min reward -3.5329311633186746 and max reward -3.1416272713445235
+SimuDICE sampling strategy: 3
+Average reward: -4.649722045454545, with min reward -4.7721800000000005 and max reward -4.52935
+Running SimuDICE for 475 episodes
+SimuDICE sampling strategy: 1
+Average reward: -0.34462597978866966, with min reward -0.4968530935070054 and max reward -0.19135641026593408
+SimuDICE sampling strategy: 2
+Average reward: -3.0833954531411285, with min reward -3.2496602209891456 and max reward -2.894953052882437
+SimuDICE sampling strategy: 3
+Average reward: -4.599471499999999, with min reward -4.77212 and max reward -4.48993
+Running SimuDICE for 500 episodes
+SimuDICE sampling strategy: 1
+Average reward: -0.15966023215031527, with min reward -0.3335725354764946 and max reward 0.012404766836613621
+SimuDICE sampling strategy: 2
+Average reward: -2.932853075965998, with min reward -3.121180847108562 and max reward -2.748164988149776
+SimuDICE sampling strategy: 3
+Average reward: -4.635474833333332, with min reward -4.81481 and max reward -4.543370000000001

@@ -1,0 +1,122 @@
+Configuration: {'dataset_path': './datasets/Taxi_0.1_10000_510_100_behavioral_data.pkl', 'environment_name': 'Taxi', 'alpha': 0.05, 'gamma': 0.99, 'planning_steps': 10, 'iterations': 1, 'lamba': 1000, 'sampling_strategy': 1, 'play_episodes': 500, 'max_environment_steps': 100}
+Running SimuDICE for 25 episodes
+SimuDICE PS: 1
+Average reward: -4.202326928292456, with min reward -4.2271853062361995 and max reward -4.185190560271647
+SimuDICE PS: 5
+Average reward: -4.200120738412337, with min reward -4.220679161341136 and max reward -4.177833802622499
+SimuDICE PS: 10
+Average reward: -4.135853924328769, with min reward -4.184599898019838 and max reward -4.08815511732146
+SimuDICE PS: 20
+Average reward: -4.05546881644621, with min reward -4.114972676411744 and max reward -3.969083547481746
+SimuDICE PS: 50
+Average reward: -3.3621511094943495, with min reward -3.4915255882047274 and max reward -3.2295898148727082
+Running SimuDICE for 75 episodes
+SimuDICE PS: 1
+Average reward: -4.305655, with min reward -4.33828 and max reward -4.27438
+SimuDICE PS: 5
+Average reward: -4.20503509109127, with min reward -4.2630799999999995 and max reward -4.155215897435897
+SimuDICE PS: 10
+Average reward: -4.032499487966572, with min reward -4.138799885057471 and max reward -3.954283016186712
+SimuDICE PS: 20
+Average reward: -3.235182550123337, with min reward -3.3975586573033305 and max reward -3.0913544749380413
+SimuDICE PS: 50
+Average reward: -0.9613068076447847, with min reward -1.1221598505146175 and max reward -0.7937217941624939
+Running SimuDICE for 125 episodes
+SimuDICE PS: 1
+Average reward: -4.355956, with min reward -4.39804 and max reward -4.331440000000001
+SimuDICE PS: 5
+Average reward: -4.1694735000000005, with min reward -4.24551 and max reward -4.05409
+SimuDICE PS: 10
+Average reward: -3.5133937123594485, with min reward -3.7395813299495018 and max reward -3.389894761684748
+SimuDICE PS: 20
+Average reward: -2.016911360320935, with min reward -2.1937242965070762 and max reward -1.8101540253229196
+SimuDICE PS: 50
+Average reward: 0.09539020033765809, with min reward 0.0345127666280506 and max reward 0.14686885997064075
+Running SimuDICE for 175 episodes
+SimuDICE PS: 1
+Average reward: -4.415512000000001, with min reward -4.44862 and max reward -4.3804799999999995
+SimuDICE PS: 5
+Average reward: -4.000157680194454, with min reward -4.073250313216196 and max reward -3.8723129540449164
+SimuDICE PS: 10
+Average reward: -2.9471856172982323, with min reward -3.2182089268644516 and max reward -2.7664254850100907
+SimuDICE PS: 20
+Average reward: -0.8726533017760165, with min reward -1.0218113481580597 and max reward -0.7424825102735053
+SimuDICE PS: 50
+Average reward: 0.34587960557384057, with min reward 0.2860023327681794 and max reward 0.43319505238748834
+Running SimuDICE for 225 episodes
+SimuDICE PS: 1
+Average reward: -4.442017000000001, with min reward -4.49508 and max reward -4.404739999999999
+SimuDICE PS: 5
+Average reward: -3.706515463974229, with min reward -3.8662872298949087 and max reward -3.580989545393878
+SimuDICE PS: 10
+Average reward: -2.328266616824414, with min reward -2.5717750651110154 and max reward -2.107923209797339
+SimuDICE PS: 20
+Average reward: -0.3460074609548553, with min reward -0.4538931697365881 and max reward -0.2764690445902821
+SimuDICE PS: 50
+Average reward: 0.4398246187082485, with min reward 0.379126513210983 and max reward 0.5044223719583664
+Running SimuDICE for 275 episodes
+SimuDICE PS: 1
+Average reward: -4.390998545454545, with min reward -4.49068 and max reward -4.3174600000000005
+SimuDICE PS: 5
+Average reward: -3.4450651620040285, with min reward -3.63118245548215 and max reward -3.290893880210524
+SimuDICE PS: 10
+Average reward: -1.718300472783077, with min reward -1.9077998563560303 and max reward -1.5264294408980783
+SimuDICE PS: 20
+Average reward: 0.05339087601906771, with min reward -0.05453596945718595 and max reward 0.1992334891737421
+SimuDICE PS: 50
+Average reward: 0.5024445119201212, with min reward 0.44012152864402126 and max reward 0.5526006294384461
+Running SimuDICE for 325 episodes
+SimuDICE PS: 1
+Average reward: -4.631377, with min reward -4.7612 and max reward -4.54038
+SimuDICE PS: 5
+Average reward: -3.124211315257976, with min reward -3.371491826976522 and max reward -2.9557820184521653
+SimuDICE PS: 10
+Average reward: -1.2368808693618265, with min reward -1.4003138377178053 and max reward -1.068262505562108
+SimuDICE PS: 20
+Average reward: 0.2815648645588116, with min reward 0.16081133460364758 and max reward 0.3887622544992936
+SimuDICE PS: 50
+Average reward: 0.593284252924265, with min reward 0.5630089274786572 and max reward 0.6576725426976543
+Running SimuDICE for 375 episodes
+SimuDICE PS: 1
+Average reward: -4.588920738437002, with min reward -4.763470526315789 and max reward -4.46992
+SimuDICE PS: 5
+Average reward: -2.865805499552035, with min reward -3.0760199425881956 and max reward -2.6849041941443494
+SimuDICE PS: 10
+Average reward: -0.8599784795546054, with min reward -1.0343243259603536 and max reward -0.7328412333507957
+SimuDICE PS: 20
+Average reward: 0.4264268458375461, with min reward 0.33353384219289517 and max reward 0.48939882167175613
+SimuDICE PS: 50
+Average reward: 0.6058556264038728, with min reward 0.5539890883059063 and max reward 0.6537568341440813
+Running SimuDICE for 425 episodes
+SimuDICE PS: 1
+Average reward: -4.654845, with min reward -4.80944 and max reward -4.55108
+SimuDICE PS: 5
+Average reward: -2.5954415763061762, with min reward -2.8389486212754567 and max reward -2.4059615316978022
+SimuDICE PS: 10
+Average reward: -0.44252078651031174, with min reward -0.5878035559859537 and max reward -0.32992877873719706
+SimuDICE PS: 20
+Average reward: 0.480084108234509, with min reward 0.36270763160827496 and max reward 0.5559323430626169
+SimuDICE PS: 50
+Average reward: 0.6101783623536879, with min reward 0.5635811469695655 and max reward 0.6470694739642882
+Running SimuDICE for 475 episodes
+SimuDICE PS: 1
+Average reward: -4.430894746724703, with min reward -4.545604501414647 and max reward -4.289049082098372
+SimuDICE PS: 5
+Average reward: -2.3657652852276025, with min reward -2.5604497561906236 and max reward -2.1786775048364646
+SimuDICE PS: 10
+Average reward: -0.34462597978866966, with min reward -0.4968530935070054 and max reward -0.19135641026593408
+SimuDICE PS: 20
+Average reward: 0.521590964785828, with min reward 0.42802728889636854 and max reward 0.5772554438632194
+SimuDICE PS: 50
+Average reward: 0.624380713625659, with min reward 0.5658414551856812 and max reward 0.6600621650279543
+Running SimuDICE for 500 episodes
+SimuDICE PS: 1
+Average reward: -4.521813554841115, with min reward -4.687681864805302 and max reward -4.391423265954489
+SimuDICE PS: 5
+Average reward: -2.218567697481323, with min reward -2.4433246810632685 and max reward -2.0276132081712332
+SimuDICE PS: 10
+Average reward: -0.15966023215031527, with min reward -0.3335725354764946 and max reward 0.012404766836613621
+SimuDICE PS: 20
+Average reward: 0.5375139294581324, with min reward 0.47030155330166645 and max reward 0.5910465380362796
+SimuDICE PS: 50
+Average reward: 0.6274989872259671, with min reward 0.549354313860167 and max reward 0.6731001721962248

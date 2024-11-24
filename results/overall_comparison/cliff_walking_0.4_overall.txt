@@ -1,0 +1,122 @@
+Configuration: {'dataset_path': './datasets/CliffWalking_0.4_10000_510_100_behavioral_data.pkl', 'environment_name': 'Taxi', 'alpha': 0.1, 'gamma': 0.99, 'planning_steps': 10, 'iterations': 1, 'lamba': 1000, 'sampling_strategy': 1, 'play_episodes': 500, 'max_environment_steps': 100}
+Running SimuDICE for 25 episodes
+Q-learning
+Average reward: -5.265681647129411, with min reward -5.427892508172604 and max reward -5.021903701164868
+Offline Dyna-Q 10 PS
+Average reward: -5.250759227336065, with min reward -5.3969167469095645 and max reward -5.042222467532467
+Offline Dyna-Q 20 PS
+Average reward: -5.255492586258421, with min reward -5.46851783141988 and max reward -5.1058542364830375
+SimuDICE 10 PS
+Average reward: -5.250759227336065, with min reward -5.3969167469095645 and max reward -5.042222467532467
+SimuDICE 20 PS
+Average reward: -5.255492586258421, with min reward -5.46851783141988 and max reward -5.1058542364830375
+Running SimuDICE for 75 episodes
+Q-learning
+Average reward: -5.61102176166062, with min reward -5.7820442105263155 and max reward -5.330179167862267
+Offline Dyna-Q 10 PS
+Average reward: -5.58203223364292, with min reward -5.757401321229921 and max reward -5.451216612375436
+Offline Dyna-Q 20 PS
+Average reward: -5.549570163252406, with min reward -5.706390977443609 and max reward -5.40858232806707
+SimuDICE 10 PS
+Average reward: -5.58203223364292, with min reward -5.757401321229921 and max reward -5.451216612375436
+SimuDICE 20 PS
+Average reward: -5.549570163252406, with min reward -5.706390977443609 and max reward -5.40858232806707
+Running SimuDICE for 125 episodes
+Q-learning
+Average reward: -5.617754055198919, with min reward -5.807862156286722 and max reward -5.382126194979947
+Offline Dyna-Q 10 PS
+Average reward: -5.620105748685393, with min reward -5.83682892278524 and max reward -5.382008039865808
+Offline Dyna-Q 20 PS
+Average reward: -5.5497900765605035, with min reward -5.734843860961734 and max reward -5.300439525920514
+SimuDICE 10 PS
+Average reward: -5.620105748685393, with min reward -5.83682892278524 and max reward -5.382008039865808
+SimuDICE 20 PS
+Average reward: -5.5497900765605035, with min reward -5.734843860961734 and max reward -5.300439525920514
+Running SimuDICE for 175 episodes
+Q-learning
+Average reward: -5.675160491644545, with min reward -5.911004509466437 and max reward -5.533043225806452
+Offline Dyna-Q 10 PS
+Average reward: -5.634615385392878, with min reward -5.80396672227371 and max reward -5.487106490888206
+Offline Dyna-Q 20 PS
+Average reward: -5.586243350902572, with min reward -5.810299157620495 and max reward -5.442743683304648
+SimuDICE 10 PS
+Average reward: -5.634615385392878, with min reward -5.80396672227371 and max reward -5.487106490888206
+SimuDICE 20 PS
+Average reward: -5.586243350902572, with min reward -5.810299157620495 and max reward -5.442743683304648
+Running SimuDICE for 225 episodes
+Q-learning
+Average reward: -5.683346010861916, with min reward -5.884131168831169 and max reward -5.406213173595185
+Offline Dyna-Q 10 PS
+Average reward: -5.61845328681826, with min reward -5.762386428571428 and max reward -5.482409193022769
+Offline Dyna-Q 20 PS
+Average reward: -5.603133611101258, with min reward -5.792354670856344 and max reward -5.426507226107225
+SimuDICE 10 PS
+Average reward: -5.61845328681826, with min reward -5.762386428571428 and max reward -5.482409193022769
+SimuDICE 20 PS
+Average reward: -5.603133611101258, with min reward -5.792354670856344 and max reward -5.426507226107225
+Running SimuDICE for 275 episodes
+Q-learning
+Average reward: -5.712348577998946, with min reward -5.834814021317831 and max reward -5.526244835164836
+Offline Dyna-Q 10 PS
+Average reward: -5.567219805279694, with min reward -5.703317138408535 and max reward -5.369419734848485
+Offline Dyna-Q 20 PS
+Average reward: -5.632232097590222, with min reward -5.789234230780133 and max reward -5.431963731082862
+SimuDICE 10 PS
+Average reward: -5.567219805279694, with min reward -5.703317138408535 and max reward -5.369419734848485
+SimuDICE 20 PS
+Average reward: -5.632232097590222, with min reward -5.789234230780133 and max reward -5.431963731082862
+Running SimuDICE for 325 episodes
+Q-learning
+Average reward: -5.68315015103598, with min reward -5.86821986565159 and max reward -5.563623198434925
+Offline Dyna-Q 10 PS
+Average reward: -5.56909378474101, with min reward -5.819050943470573 and max reward -5.361149112330969
+Offline Dyna-Q 20 PS
+Average reward: -5.662732009290745, with min reward -5.81895027027027 and max reward -5.4350466666666675
+SimuDICE 10 PS
+Average reward: -5.56909378474101, with min reward -5.819050943470573 and max reward -5.361149112330969
+SimuDICE 20 PS
+Average reward: -5.662732009290745, with min reward -5.81895027027027 and max reward -5.4350466666666675
+Running SimuDICE for 375 episodes
+Q-learning
+Average reward: -5.692623794203585, with min reward -5.848500425531915 and max reward -5.519290406189556
+Offline Dyna-Q 10 PS
+Average reward: -5.571588657299491, with min reward -5.735314193548387 and max reward -5.41104306282492
+Offline Dyna-Q 20 PS
+Average reward: -5.6719225894373455, with min reward -5.802147774265561 and max reward -5.464220423125082
+SimuDICE 10 PS
+Average reward: -5.571588657299491, with min reward -5.735314193548387 and max reward -5.41104306282492
+SimuDICE 20 PS
+Average reward: -5.6719225894373455, with min reward -5.802147774265561 and max reward -5.464220423125082
+Running SimuDICE for 425 episodes
+Q-learning
+Average reward: -5.710017936595365, with min reward -5.859774588765528 and max reward -5.48340658444211
+Offline Dyna-Q 10 PS
+Average reward: -5.585917912183965, with min reward -5.7305600000000005 and max reward -5.42390453533718
+Offline Dyna-Q 20 PS
+Average reward: -5.709774059504673, with min reward -5.87596025974026 and max reward -5.454995163583977
+SimuDICE 10 PS
+Average reward: -5.585917912183965, with min reward -5.7305600000000005 and max reward -5.42390453533718
+SimuDICE 20 PS
+Average reward: -5.709774059504673, with min reward -5.87596025974026 and max reward -5.454995163583977
+Running SimuDICE for 475 episodes
+Q-learning
+Average reward: -5.688604871735368, with min reward -5.8302140231886295 and max reward -5.527075599343186
+Offline Dyna-Q 10 PS
+Average reward: -5.59455818906679, with min reward -5.783876178107606 and max reward -5.424905135173054
+Offline Dyna-Q 20 PS
+Average reward: -5.698109926807083, with min reward -5.850074545454545 and max reward -5.567663344214181
+SimuDICE 10 PS
+Average reward: -5.59455818906679, with min reward -5.783876178107606 and max reward -5.424905135173054
+SimuDICE 20 PS
+Average reward: -5.698109926807083, with min reward -5.850074545454545 and max reward -5.567663344214181
+Running SimuDICE for 500 episodes
+Q-learning
+Average reward: -5.695766602139441, with min reward -5.85766 and max reward -5.532902091212459
+Offline Dyna-Q 10 PS
+Average reward: -5.569941732077312, with min reward -5.754432545221764 and max reward -5.370311708047224
+Offline Dyna-Q 20 PS
+Average reward: -5.737807123211844, with min reward -5.946814643837536 and max reward -5.538204788732395
+SimuDICE 10 PS
+Average reward: -5.569941732077312, with min reward -5.754432545221764 and max reward -5.370311708047224
+SimuDICE 20 PS
+Average reward: -5.737807123211844, with min reward -5.946814643837536 and max reward -5.538204788732395
